@@ -1,0 +1,22 @@
+C:\Users\Cevsev\Desktop\C# Projelerim\Yeni Projeler\1_TranslateAPP\bin\Debug\1_TranslateAPP.exe.config
+C:\Users\Cevsev\Desktop\C# Projelerim\Yeni Projeler\1_TranslateAPP\bin\Debug\1_TranslateAPP.exe
+C:\Users\Cevsev\Desktop\C# Projelerim\Yeni Projeler\1_TranslateAPP\bin\Debug\1_TranslateAPP.pdb
+C:\Users\Cevsev\Desktop\C# Projelerim\Yeni Projeler\1_TranslateAPP\obj\Debug\1_TranslateAPP.csproj.AssemblyReference.cache
+C:\Users\Cevsev\Desktop\C# Projelerim\Yeni Projeler\1_TranslateAPP\obj\Debug\1_TranslateAPP.csproj.SuggestedBindingRedirects.cache
+C:\Users\Cevsev\Desktop\C# Projelerim\Yeni Projeler\1_TranslateAPP\obj\Debug\_1_TranslateAPP.Form1.resources
+C:\Users\Cevsev\Desktop\C# Projelerim\Yeni Projeler\1_TranslateAPP\obj\Debug\_1_TranslateAPP.Properties.Resources.resources
+C:\Users\Cevsev\Desktop\C# Projelerim\Yeni Projeler\1_TranslateAPP\obj\Debug\1_TranslateAPP.csproj.GenerateResource.cache
+C:\Users\Cevsev\Desktop\C# Projelerim\Yeni Projeler\1_TranslateAPP\obj\Debug\1_TranslateAPP.csproj.CoreCompileInputs.cache
+C:\Users\Cevsev\Desktop\C# Projelerim\Yeni Projeler\1_TranslateAPP\obj\Debug\1_TranslateAPP.exe
+C:\Users\Cevsev\Desktop\C# Projelerim\Yeni Projeler\1_TranslateAPP\obj\Debug\1_TranslateAPP.pdb
+C:\Users\Cevsev\Desktop\C#_Projelerim\Yeni Projeler\1_TranslateAPP\bin\Debug\1_TranslateAPP.exe.config
+C:\Users\Cevsev\Desktop\C#_Projelerim\Yeni Projeler\1_TranslateAPP\bin\Debug\1_TranslateAPP.exe
+C:\Users\Cevsev\Desktop\C#_Projelerim\Yeni Projeler\1_TranslateAPP\bin\Debug\1_TranslateAPP.pdb
+C:\Users\Cevsev\Desktop\C#_Projelerim\Yeni Projeler\1_TranslateAPP\obj\Debug\1_TranslateAPP.csproj.AssemblyReference.cache
+C:\Users\Cevsev\Desktop\C#_Projelerim\Yeni Projeler\1_TranslateAPP\obj\Debug\1_TranslateAPP.csproj.SuggestedBindingRedirects.cache
+C:\Users\Cevsev\Desktop\C#_Projelerim\Yeni Projeler\1_TranslateAPP\obj\Debug\_1_TranslateAPP.Form1.resources
+C:\Users\Cevsev\Desktop\C#_Projelerim\Yeni Projeler\1_TranslateAPP\obj\Debug\_1_TranslateAPP.Properties.Resources.resources
+C:\Users\Cevsev\Desktop\C#_Projelerim\Yeni Projeler\1_TranslateAPP\obj\Debug\1_TranslateAPP.csproj.GenerateResource.cache
+C:\Users\Cevsev\Desktop\C#_Projelerim\Yeni Projeler\1_TranslateAPP\obj\Debug\1_TranslateAPP.csproj.CoreCompileInputs.cache
+C:\Users\Cevsev\Desktop\C#_Projelerim\Yeni Projeler\1_TranslateAPP\obj\Debug\1_TranslateAPP.exe
+C:\Users\Cevsev\Desktop\C#_Projelerim\Yeni Projeler\1_TranslateAPP\obj\Debug\1_TranslateAPP.pdb
